@@ -37,8 +37,10 @@ public class AppTest
     } 
     public void pisz(){ 
     	System.out.println("witaj świecie gita");
+    	System.out.println("terz przerwa"); 
+    	System.out.println("witaj Adaś ty zajebisty prowadzący");
     	
     }
-    //witaj
+    //witaj czesć
     
 }
