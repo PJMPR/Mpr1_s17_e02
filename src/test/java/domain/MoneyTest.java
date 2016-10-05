@@ -9,7 +9,8 @@ public class MoneyTest {
 	@Test
 	public void test() {
 		fail("s14293");
-		fail("s13033 yhyhyyyyy");
+		fail("s13033 yhyhyyyyy"); 
+		fail("aaaaaaaaaaaaaa");
 	}
 
 }
