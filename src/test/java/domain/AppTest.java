@@ -35,7 +35,8 @@ public class AppTest
     {
         assertTrue( false);
     } 
-    public void pisz(){
+    public void pisz(){ 
+    	System.out.println("witaj świecie gita");
     	
     }
     //witaj
