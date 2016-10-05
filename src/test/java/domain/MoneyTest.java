@@ -8,7 +8,7 @@ public class MoneyTest {
 
 	@Test
 	public void test() {
-		fail("Not yet implemented");
+		fail("s13929");
 	}
 
 }
