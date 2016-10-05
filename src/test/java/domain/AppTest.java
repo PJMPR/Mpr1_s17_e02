@@ -36,9 +36,12 @@ public class AppTest
         assertTrue( true);
     } 
     public void pisz(){ 
-    	System.out.println("witaj świecie gita");
+    	System.out.println("witaj świecie gita"); 
+    	System.out.println("witaj Adaś"); 
+    	System.out.println("Gałąź Filipa");
     	
     }
-    //witaj
+    //witaj 
+    // gałąź filipa
     
 }
