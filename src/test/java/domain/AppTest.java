@@ -20,7 +20,15 @@ public class AppTest
         super( testName );
     }
 
-    /**
+    public AppTest() {
+		// TODO Auto-generated constructor stub
+	}
+
+	
+
+	
+
+	/**
      * @return the suite of tests being tested
      */
     public static Test suite()
