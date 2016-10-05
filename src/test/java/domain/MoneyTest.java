@@ -10,6 +10,7 @@ public class MoneyTest {
 	public void test() {
 		fail("s5609");
 		fail("s14293");
+		fail("s13904");
 	}
 
 }
